@@ -3,6 +3,12 @@
 #### Overview
 The Material Design Editor is a powerful scientific tool tailored for chemists, enabling them to input natural language descriptions of materials and obtain comprehensive details, properties, and processes for creating the specified material. This editor leverages sophisticated algorithms and databases to streamline material design workflows, offering an intuitive interface and robust functionalities.
 
+#### Quick Start
+- Natural Language Input: The Material Design Editor accepts natural language descriptions of materials, making it easy for chemists to input their requirements.
+- Property Retrieval: The tool retrieves properties of the specified material, such as melting point, boiling point, density, and more.
+- Process Generation: Based on the input description, the Material Design Editor generates processes and steps to create the desired material.
+- User-Friendly Interface: The tool provides an intuitive and user-friendly interface, making it accessible to chemists of all levels of expertise.
+
 ---
 
 #### Features
