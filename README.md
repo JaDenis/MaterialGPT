@@ -1,10 +1,20 @@
 # MaterialGPT
 
-## Overview
+#### Overview
+The Material Design Editor is a powerful scientific tool tailored for chemists, enabling them to input natural language descriptions of materials and obtain comprehensive details, properties, and processes for creating the specified material. This editor leverages sophisticated algorithms and databases to streamline material design workflows, offering an intuitive interface and robust functionalities.
 
-The Material Design Editor is a powerful scientific tool designed for chemists to simplify the process of entering natural language descriptions of materials and obtaining detailed information about their properties and the processes involved in their synthesis.
+---
 
-## Features
+#### Features
+
+1. **Natural Language Input**: Enter material descriptions in plain language for seamless interaction.
+2. **Property Retrieval**: Obtain detailed properties of specified materials, including physical, chemical, and structural attributes.
+3. **Process Recommendations**: Access step-by-step processes and methods for synthesizing the desired material.
+4. **Material Comparison**: Compare multiple materials based on their properties and synthesis routes.
+5. **Database Integration**: Utilize a vast database of materials and their characteristics for accurate information retrieval.
+6. **User-Friendly Interface**: Intuitive design and navigation for enhanced user experience.
+
+## Feature details:
 
 ### 1. **Natural Language Input**
 
