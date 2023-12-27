@@ -36,39 +36,7 @@ The editor is integrated with a comprehensive material database, ensuring access
 
 Visualize the molecular structure, crystal lattice, and other relevant aspects of the material. This feature aids in better understanding and communication of material characteristics.
 
-## Installation
 
-To install the Material Design Editor, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/material-design-editor.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd material-design-editor
-    ```
-
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Run the application:
-    ```bash
-    npm start
-    ```
-
-## Usage
-
-1. Open the Material Design Editor application.
-
-2. Input a natural language description of the material in the designated text area.
-
-3. Explore the predicted properties and suggested synthesis processes.
-
-4. Utilize the visualization tools to gain a better understanding of the material.
 
 ## Support and Feedback
 
