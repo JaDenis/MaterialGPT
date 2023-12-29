@@ -1,5 +1,8 @@
 # MaterialGPT
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diff2gif.streamlit.app/)
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 
 #### Overview
 The Material Design Editor is a powerful scientific tool tailored for chemists, enabling them to input natural language descriptions of materials and obtain comprehensive details, properties, and processes for creating the specified material. This editor leverages sophisticated algorithms and databases to streamline material design workflows, offering an intuitive interface and robust functionalities.
